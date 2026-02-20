@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "嫌嫌",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T14:35:47.517030Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嫌嫌",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_嫌嫌_Novelbright.txt"
+    }
+  ]
+}
